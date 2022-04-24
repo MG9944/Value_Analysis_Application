@@ -1,0 +1,11 @@
+C:\Users\macie\source\repos\ProgramPP\ProgramPP\bin\Debug\ProgramPP.exe.config
+C:\Users\macie\source\repos\ProgramPP\ProgramPP\bin\Debug\ProgramPP.exe
+C:\Users\macie\source\repos\ProgramPP\ProgramPP\bin\Debug\ProgramPP.pdb
+C:\Users\macie\source\repos\ProgramPP\ProgramPP\obj\Debug\ProgramPP.csprojAssemblyReference.cache
+C:\Users\macie\source\repos\ProgramPP\ProgramPP\obj\Debug\ProgramPP.Projekt.resources
+C:\Users\macie\source\repos\ProgramPP\ProgramPP\obj\Debug\ProgramPP.Form2.resources
+C:\Users\macie\source\repos\ProgramPP\ProgramPP\obj\Debug\ProgramPP.Properties.Resources.resources
+C:\Users\macie\source\repos\ProgramPP\ProgramPP\obj\Debug\ProgramPP.csproj.GenerateResource.cache
+C:\Users\macie\source\repos\ProgramPP\ProgramPP\obj\Debug\ProgramPP.csproj.CoreCompileInputs.cache
+C:\Users\macie\source\repos\ProgramPP\ProgramPP\obj\Debug\ProgramPP.exe
+C:\Users\macie\source\repos\ProgramPP\ProgramPP\obj\Debug\ProgramPP.pdb
